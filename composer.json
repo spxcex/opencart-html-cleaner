@@ -1,0 +1,25 @@
+{
+  "name": "george-sap/opencart-html-cleaner",
+  "description": "Universal HTML tag cleaner for OpenCart/ocStore",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "George-SAP"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "ext-pdo": "*",
+    "ext-mbstring": "*"
+  },
+  "autoload": {
+    "files": ["html_tag_cleaner.php"]
+  },
+  "keywords": [
+    "opencart",
+    "ocstore",
+    "html-cleaner",
+    "database-tool"
+  ]
+}
