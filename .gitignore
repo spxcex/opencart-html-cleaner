@@ -1,0 +1,27 @@
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.backup
+*.bak
+*.sql
+backup_*.sql
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Don't commit sensitive configs
+config.php
+admin/config.php
